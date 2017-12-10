@@ -16,11 +16,12 @@ app_license = "MIT"
 
 # include js, css files in header of desk.html
 # app_include_css = "/assets/crisp_plugin/css/crisp_plugin.css"
-# app_include_js = "/assets/crisp_plugin/js/crisp_plugin.js"
+app_include_js = "/assets/js/crisp_plugin.min.js"
 
 # include js, css files in header of web template
 # web_include_css = "/assets/crisp_plugin/css/crisp_plugin.css"
-web_include_js = "/assets/js/crisp_plugin.min.js"
+# web_include_js = "/assets/js/crisp_plugin.min.js"
+# web_include_js = "/assets/crisp_plugin/js/crisp.js"
 
 # include js in page
 # page_js = {"page" : "public/js/file.js"}
